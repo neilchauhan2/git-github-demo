@@ -1,1 +1,1 @@
-console.log("merge conflict demo!");
+const conflict = "conflict";
